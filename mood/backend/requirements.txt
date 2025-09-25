@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-dotenv
+Pillow
+torch
+torchvision
+open_clip_torch
+requests
